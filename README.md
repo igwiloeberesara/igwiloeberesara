@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ebere Igwilo 👋
 
-<!--
-**igwiloeberesara/igwiloeberesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Education and AI Evaluation Specialist**
+AI Trainer | LLM Response Evaluator | Data Annotation
 
-Here are some ideas to get you started:
+I evaluate AI-generated responses for factual accuracy, relevance,
+clarity, completeness, learner suitability and instruction following.
+I have a B.Ed. in Guidance and Counselling and classroom teaching
+experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Rubric-based LLM response evaluation
+- Response comparison and preference evaluation
+- Text annotation and classification
+- Fact-checking and structured written feedback
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ebere-igwilo-6144b543b
+- Email: igwilosara@gmail.com
